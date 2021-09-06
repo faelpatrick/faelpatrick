@@ -2,7 +2,14 @@
 ### More about me:
 I have more than 13 years workin for the Brazilian Jesuits with all the dedication and excellence for which the Jesuits are known.
 
- [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/faelpatrick/)](https://www.linkedin.com/in/faelpatrick/) 
+<!-- [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/faelpatrick/)](https://www.linkedin.com/in/faelpatrick/) -->
+
+##
+ <div>
+  <a href="https://github.com/rafaballerini">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=faelpatrick&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faelpatrick&layout=compact&langs_count=7&theme=midnight-purple"/>
+</div>
  
 ## Languages and Tools:
 
@@ -21,6 +28,17 @@ I have more than 13 years workin for the Brazilian Jesuits with all the dedicati
 
 
 <img src="https://img.shields.io/github/followers/faelpatrick?color=black&label=Follow&logoColor=blue&style=social" height="22" title="Follow me" align="center" alt="GitHub">
+
+##
+ <div> 
+  <a href="https://www.youtube.com/channel/UCybO60JAWhO0G9WyGLT5NIw" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+  <a href="https://instagram.com/faelpatricks" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ 	<a href="https://discord.gg/zVDZmN33" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:faelpatrick@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/faelpatrick" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
+##
+👨‍👩‍👦👨‍🎓🖖🤟🤙🦀🏐🥋🎮🍕🌎✈🌍
 
 
 
