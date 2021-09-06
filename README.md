@@ -14,16 +14,16 @@ I have more than 13 years workin for the Brazilian Jesuits with all the dedicati
 ## Languages and Tools:
 
 <img align="left" alt="JAVASCRIPT" width="36px" src="https://raw.githubusercontent.com/faelpatrick/aboutme/main/images/javascript.png" />
-<img align="left" alt="JAVASCRIPT" width="36px" src="https://raw.githubusercontent.com/faelpatrick/aboutme/main/images/php.png" />
+<img align="left" alt="PHP" width="36px" src="https://raw.githubusercontent.com/faelpatrick/aboutme/main/images/php.png" />
 <img align="left" alt="HTML5" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="Git" width="36px" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/git_plain_wordmark_logo_icon_146508.png" />
 <img align="left" alt="GitHub" width="36px" src="https://cdn.icon-icons.com/icons2/1181/PNG/512/1490128251-epic-social-media-online-web-internet-github_82122.png" />
 
 
-<img align="left" alt="GitHub" width="36px" src="https://raw.githubusercontent.com/faelpatrick/aboutme/main/images/wordpress.png" />
-<img align="left" alt="GitHub" width="36px" src="https://raw.githubusercontent.com/faelpatrick/aboutme/main/images/photoshop.png" />
-<img align="left" alt="GitHub" width="36px" src="https://raw.githubusercontent.com/faelpatrick/aboutme/main/images/corel.png" />
+<img align="left" alt="Wordpress" width="36px" src="https://raw.githubusercontent.com/faelpatrick/aboutme/main/images/wordpress.png" />
+<img align="left" alt="Photoshop" width="36px" src="https://raw.githubusercontent.com/faelpatrick/aboutme/main/images/photoshop.png" />
+<img align="left" alt="Corel Draw" width="36px" src="https://raw.githubusercontent.com/faelpatrick/aboutme/main/images/corel.png" />
 
 
 
@@ -31,11 +31,13 @@ I have more than 13 years workin for the Brazilian Jesuits with all the dedicati
 
 ##
  <div> 
+  <a href="https://www.linkedin.com/in/faelpatrick" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://instagram.com/faelpatricks" target="_blank"><img src="https://img.shields.io/badge/-Instagram-FF0000?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.twitter/faelpatrick" target="_blank"><img src="https://img.shields.io/badge/Twitter-%230077B5?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
   <a href="https://www.youtube.com/channel/UCybO60JAWhO0G9WyGLT5NIw" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://instagram.com/faelpatricks" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 	<a href="https://discord.gg/zVDZmN33" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+  <a href="https://discord.gg/zVDZmN33" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:faelpatrick@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/faelpatrick" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+   
   
 ##
 👨‍👩‍👦👨‍🎓🖖🤟🤙🦀🏐🥋🎮🍕🌎✈🌍
