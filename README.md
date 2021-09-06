@@ -11,7 +11,7 @@ I have more than 13 years workin for the Brazilian Jesuits with all the dedicati
 <img align="left" alt="HTML5" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="Git" width="36px" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/git_plain_wordmark_logo_icon_146508.png" />
-
+<img align="left" alt="GitHub" width="36px" src="https://cdn.icon-icons.com/icons2/1181/PNG/512/1490128251-epic-social-media-online-web-internet-github_82122.png" />
 
 
 <img align="left" alt="GitHub" width="36px" src="https://raw.githubusercontent.com/faelpatrick/aboutme/main/images/wordpress.png" />
