@@ -1,5 +1,8 @@
 # Hi everyone, I am Rafael Souza
 ### More about me:
+
+## I help non-technical professionals in the education industry to solve their problems without worry about technology!
+
 I have more than 13 years working for the Brazilian Jesuits with all the dedication and excellence for which the Jesuits are known.
 
 <!-- [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/faelpatrick/)](https://www.linkedin.com/in/faelpatrick/) -->
