@@ -16,7 +16,7 @@ I have more than 13 years working for the Brazilian Jesuits with all the dedicat
  
 ## Languages and Tools:
 <img align="left" alt="JAVASCRIPT" width="36px" src="https://raw.githubusercontent.com/faelpatrick/aboutme/main/images/javascript.png" />
-<img align="left" alt="NODEJS" width="36px" src="https://raw.githubusercontent.com/faelpatrick/faelpatrick/main/images/nodejs.png" />
+<img align="left" alt="NODEJS" width="56px" src="https://raw.githubusercontent.com/faelpatrick/faelpatrick/main/images/nodejs.png" />
 <img align="left" alt="EXPRESS" width="36px" src="https://raw.githubusercontent.com/faelpatrick/faelpatrick/main/images/express_.png" />
 <img align="left" alt="NPM" width="36px" src="https://raw.githubusercontent.com/faelpatrick/faelpatrick/main/images/npm.png" />
 <img align="left" alt="YARN" width="36px" src="https://raw.githubusercontent.com/faelpatrick/faelpatrick/main/images/yarn.png" />
