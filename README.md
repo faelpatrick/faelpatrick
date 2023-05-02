@@ -11,7 +11,7 @@ I have more than 13 years working for the Brazilian Jesuits with all the dedicat
  <div>
   <a href="https://github.com/faelpatrick">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=faelpatrick&show_icons=true&theme=blue"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faelpatrick&layout=compact&langs_count=7&theme=blue"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faelpatrick&langs_count=7&theme=blue&layout=compact"/>
 </div>
  
 ## Languages and Tools:
