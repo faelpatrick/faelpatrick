@@ -1,7 +1,7 @@
 # Hi everyone, I am Rafael Souza
 ### More about me:
 
-## I help non-technical professionals in the education industry to solve their problems without worry about technology!
+## I help non-technical professionals to solve their problems without worry about technology!
 
 I have more than 13 years working for the Brazilian Jesuits with all the dedication and excellence for which the Jesuits are known.
 
