@@ -2,48 +2,48 @@
 
 ## I help professionals to solve problems without worry about technology!
 
-### I have more than 15 years working for the Brazilian Jesuits with all the dedication and excellence for which the Jesuits are known.
+### With over 15 years of experience working for the Brazilian Jesuits, known for their dedication and excellence, I am currently a Full-Stack Developer at Grupo Navarra. I love what I do and am always seeking to enhance my skills.
 
 ##
- <div>
-  <a href="https://github.com/faelpatrick">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=faelpatrick&show_icons=true&theme=blue"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faelpatrick&langs_count=7&theme=blue&layout=compact"/>
-</div>
- 
+[![Faelpatrick's GitHub stats](https://github-readme-stats.vercel.app/api?username=faelpatrick&show_icons=true&theme=blue)](https://github.com/faelpatrick/github-readme-stats)
+
+![Faelpatrick's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=faelpatrick&langs_count=7&theme=blue&layout=compact)
+
+[![Faelpatrick's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=faelpatrick)](https://github.com/faelpatrick/github-readme-stats)
+
+
 ## Stack and Frameworks:
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-<img align="left" alt="JAVASCRIPT" width="36px" src="https://raw.githubusercontent.com/faelpatrick/aboutme/main/images/javascript.png" />
-<img align="left" alt="NODEJS" width="56px" src="https://raw.githubusercontent.com/faelpatrick/faelpatrick/main/images/nodejs.png" />
 
-## 
-<img align="left" alt="EXPRESS" width="36px" src="https://raw.githubusercontent.com/faelpatrick/faelpatrick/main/images/express_.png" />
-<img align="left" alt="NPM" width="36px" src="https://raw.githubusercontent.com/faelpatrick/faelpatrick/main/images/npm.png" />
-<img align="left" alt="YARN" width="36px" src="https://raw.githubusercontent.com/faelpatrick/faelpatrick/main/images/yarn.png" />
-<img align="left" alt="MONGODB" width="36px" src="https://raw.githubusercontent.com/faelpatrick/faelpatrick/main/images/mongodb.png" />
-<img align="left" alt="REACT" width="36px" src="https://raw.githubusercontent.com/faelpatrick/faelpatrick/main/images/react.png" />
-<img align="left" alt="JQUERY" width="36px" src="https://raw.githubusercontent.com/faelpatrick/faelpatrick/main/images/jquery.png" />
-<img align="left" alt="PHP" width="36px" src="https://raw.githubusercontent.com/faelpatrick/faelpatrick/main/images/php.png" />
-<img align="left" alt="Mysql" width="36px" src="https://raw.githubusercontent.com/faelpatrick/faelpatrick/main/images/mysql.png" />
-<img align="left" alt="HTML5" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="Git" width="36px" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/git_plain_wordmark_logo_icon_146508.png" />
-<img align="left" alt="GitHub" width="36px" src="https://cdn.icon-icons.com/icons2/1181/PNG/512/1490128251-epic-social-media-online-web-internet-github_82122.png" />
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+![Yarn](https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white)
 
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
+![Vuetify](https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=vuetify&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 
-<img align="left" alt="Wordpress" width="36px" src="https://raw.githubusercontent.com/faelpatrick/aboutme/main/images/wordpress.png" />
-<img align="left" alt="Photoshop" width="36px" src="https://raw.githubusercontent.com/faelpatrick/aboutme/main/images/photoshop.png" />
-<img align="left" alt="Corel Draw" width="36px" src="https://raw.githubusercontent.com/faelpatrick/aboutme/main/images/corel.png" />
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+![Elementor](https://img.shields.io/badge/Elementor-92003B?style=for-the-badge&logo=elementor&logoColor=white)
 
-<img src="https://img.shields.io/github/followers/faelpatrick?color=black&label=Follow&logoColor=blue&style=social" height="22" title="Follow me" align="center" alt="GitHub">
+![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
+##
 
+### Connect with me: ![Follow me](https://img.shields.io/github/followers/faelpatrick?color=black&label=Follow&logoColor=blue&style=social)
 
-### Conecte-se comigo:
 [![Linktree](https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://linktree.com/faelpatrick)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/faelpatrick/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/faelpatrick)
@@ -58,9 +58,8 @@
 👨‍👩‍👦👨‍🎓🖖🤟🤙🦀🏐🥋🎮🍕🌎✈🌍
 
 
-## Stack utilizada
-**Front-end:** Vue, React, Angular
-**Back-end:** Node, Express
+
+
 
 
 
