@@ -1,11 +1,8 @@
-# Hi everyone, I am Rafael Souza
-### More about me:
+# Rafael Patrick de Souza
 
-## I help non-technical professionals to solve their problems without worry about technology!
+## I help professionals to solve problems without worry about technology!
 
-I have more than 13 years working for the Brazilian Jesuits with all the dedication and excellence for which the Jesuits are known.
-
-<!-- [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/faelpatrick/)](https://www.linkedin.com/in/faelpatrick/) -->
+### I have more than 15 years working for the Brazilian Jesuits with all the dedication and excellence for which the Jesuits are known.
 
 ##
  <div>
@@ -14,10 +11,14 @@ I have more than 13 years working for the Brazilian Jesuits with all the dedicat
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faelpatrick&langs_count=7&theme=blue&layout=compact"/>
 </div>
  
-## Languages and Tools:
+## Stack and Frameworks:
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 <img align="left" alt="JAVASCRIPT" width="36px" src="https://raw.githubusercontent.com/faelpatrick/aboutme/main/images/javascript.png" />
 <img align="left" alt="NODEJS" width="56px" src="https://raw.githubusercontent.com/faelpatrick/faelpatrick/main/images/nodejs.png" />
 
+## 
 <img align="left" alt="EXPRESS" width="36px" src="https://raw.githubusercontent.com/faelpatrick/faelpatrick/main/images/express_.png" />
 <img align="left" alt="NPM" width="36px" src="https://raw.githubusercontent.com/faelpatrick/faelpatrick/main/images/npm.png" />
 <img align="left" alt="YARN" width="36px" src="https://raw.githubusercontent.com/faelpatrick/faelpatrick/main/images/yarn.png" />
@@ -40,19 +41,7 @@ I have more than 13 years working for the Brazilian Jesuits with all the dedicat
 
 <img src="https://img.shields.io/github/followers/faelpatrick?color=black&label=Follow&logoColor=blue&style=social" height="22" title="Follow me" align="center" alt="GitHub">
 
-##
- <div> 
-  <a href="https://www.linkedin.com/in/faelpatrick" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://instagram.com/faelpatricks" target="_blank"><img src="https://img.shields.io/badge/-Instagram-FF0000?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.twitter/faelpatrick" target="_blank"><img src="https://img.shields.io/badge/Twitter-%230077B5?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
-  <a href="https://www.youtube.com/channel/UCybO60JAWhO0G9WyGLT5NIw" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://discord.gg/zVDZmN33" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:faelpatrick@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
-## Stack and Frameworks:
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ### Conecte-se comigo:
 [![Linktree](https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://linktree.com/faelpatrick)
